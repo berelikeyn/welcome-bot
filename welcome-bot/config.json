@@ -1,0 +1,13 @@
+{
+   "DEFAULTS": {
+    "AUTHORS": ["Sahip ID"],
+    "ACTIVITY_TEXT": "Madratos Abone Ol",
+    "GUILD_ID": "Sunucu ID",
+    "VOICE_CHANNEL": "Ses Kanal ID",
+    "MIN_STAFF_ROLE": "Kayıt yetkili ıd"
+  },
+  "FILES": {
+    "WELCOME": "https://cdn.discordapp.com/attachments/844644872559657000/846101189066358804/welcome.mp3",
+    "STAFF": "https://cdn.discordapp.com/attachments/844644872559657000/846101189699305502/staff.mp3"
+  }
+}
